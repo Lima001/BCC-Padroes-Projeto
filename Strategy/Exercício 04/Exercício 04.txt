@@ -1,0 +1,5 @@
+Sobre o exercício: O aluno deveria imaginar um cenário em que o padrão estudado poderia ser aplicado, bem como apresentar a solução para esse cenário.
+
+Sobre a resolução: Foi pensando em um cenário que envolve o processamento de imagens. Nesse contexto, imagina-se que existe um pipeline de processamento de imagens onde deseja-se possibilitar a alternância entre algoritmos de detecção de bordas aplicados. Considerado isso, uma solução utilizando o padrão Strategy foi elaborada.
+
+Observação: Considerando o propósito da disciplina, bem como o tempo aplicado para a resolução do cenário hipotético criado, optou-se pelo o uso de algoritmos já implementados e disponilizados via biblioteca OpenCV para o processamento das imagens.
